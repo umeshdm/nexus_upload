@@ -19,11 +19,11 @@
   <distributionManagement>
 	<snapshotRepository>
 		<id>nexus</id>
-		<url>http://51.37.189.35.bc.googleusercontent.com:8081/repository/maven-snapshots/</url>
+		<url>http://101.52.189.35.bc.googleusercontent.com:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 	<repository>
 		<id>nexus</id>
-		<url>http://51.37.189.35.bc.googleusercontent.com:8081/repository/nexus-release/</url>
+		<url>http://101.52.189.35.bc.googleusercontent.com:8081/repository/nexus-release/</url>
 	</repository>
   </distributionManagement>
 
